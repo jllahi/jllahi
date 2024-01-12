@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jllahi&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/jllahi)
 <!--
 **jllahi/jllahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jllahi&show_icons=true&theme=transparent)](https://github.com/jllahi)
