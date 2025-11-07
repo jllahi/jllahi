@@ -1,4 +1,7 @@
 [![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jllahi&show_icons=true&theme=transparent&rank_icon=percentile)](https://github.com/jllahi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jllahi&theme=transparent&layout=compact&exclude_repo=jllahi.github.io,typescript-starter)](https://github.com/jllahi)
+
 <!--
 ### Hi there 👋
 **jllahi/jllahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
